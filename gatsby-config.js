@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: '/gatsby-hampton-theme',
+  pathPrefix: '/gatsby-name-generator',
   siteMetadata: {
     title: 'My Gatsby Site'
   },
